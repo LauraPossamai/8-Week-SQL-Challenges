@@ -10,8 +10,13 @@ A big thank you to Data With Danny for this exercises.
 ## Case Study #1 - Danny's Diner
 In the beggining of 2021, Danny opened up a restaurant and now wants to answer some questions about the preferences of the costumers, including the pattern of visitis, their purchases and favorite menu items.
 
+Danny has shared with you 3 key datasets for this case study:
 
-There are three key datasets, which are represented by the relationshop diagram below.
+- sales
+- menu
+- members
+
+The 3 datasets are represented by the relationshop diagram below.
 
 
 <p align="center">
