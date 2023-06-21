@@ -1,4 +1,4 @@
-🌟 8-Week SQL Challenges 🌟
+🌟 8 WEEKS SQL CHALLENGES 🌟
 
 
 This repository contains my solutions the for the 8 case studies from the **[#8WeekSQLChallenge](https://8weeksqlchallenge.com)**.
